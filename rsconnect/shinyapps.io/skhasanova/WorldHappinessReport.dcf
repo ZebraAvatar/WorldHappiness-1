@@ -1,0 +1,13 @@
+name: WorldHappinessReport
+title: WorldHappinessReport
+username:
+account: skhasanova
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4320880
+bundleId: 4757732
+url: https://skhasanova.shinyapps.io/WorldHappinessReport/
+when: 1624657984.57138
+lastSyncTime: 1624657984.57138
+asMultiple: FALSE
+asStatic: FALSE
